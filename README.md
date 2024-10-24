@@ -9,8 +9,8 @@ This project applies **Multidimensional Scaling (MDS)** to analyze and group soc
 - **Insights:** Provides insights into influencer strategies and content categories that appeal to different audience segments.
 
 ### Technologies Used:
-- Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
-- Jupyter Notebooks
+- R Language
+- R Studio
 - Multidimensional Scaling (MDS) for dimensionality reduction
 
 ### Applications:
