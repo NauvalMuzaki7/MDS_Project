@@ -14,8 +14,6 @@ So, subjectively, new groups are formed that show high similarity between Tik To
 
 This shows their position that is not close to any influencer on the two-dimensional map, which means that based on the criteria measured, they do not have similarities with other influencers.
 
-Translated with DeepL.com (free version)
-
 ### Key Features:
 - **Data Processing:** Preprocessing of influencer data including normalization and transformation for MDS compatibility.
 - **MDS Visualization:** Visual representation of influencers in 2D/3D space based on their similarities.
